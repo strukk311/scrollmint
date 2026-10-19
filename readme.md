@@ -3,36 +3,7 @@
 A responsive landing page for a short-form content and eCommerce growth agency.
 Plain HTML, CSS and JavaScript — no frameworks, no build step.
 
-## Getting started
-
-Open `index.html` in a browser, or run a local server from the project root:
-
-```bash
-npx serve .
-# or
-python3 -m http.server 8000
-```
-
-A local server is recommended so anchors and relative paths behave the same as in production.
-
-## Project structure
-
-```
-scrollmint/
-├── index.html              # page markup
-├── favicon.svg
-├── css/
-│   └── style.css           # styles, design tokens, responsive rules
-├── js/
-│   └── main.js             # mobile menu, header scroll state, footer year
-└── images/
-    ├── hero-laptop.svg     # hero image placeholder
-    ├── brand/
-    │   ├── scrollmint-logo.svg   # mark + wordmark
-    │   └── scrollmint-mark.svg   # mark only
-    └── logos/
-        └── logo-1…6.svg    # partner logo placeholders
-```
+Live demo: https://strukk311.github.io/scrollmint/
 
 ## Sections
 
